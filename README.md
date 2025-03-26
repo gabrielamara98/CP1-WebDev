@@ -120,4 +120,5 @@
 Projeto: Case-Social-Connect
 <p>Repositório que servirá como 1º Checkpoint da disciplina de WebDev da FIAP</p>
 <p>Professor avaliador: <b>Caio Vinícius Gonçalves de Oliveira</b></p>
+<p>Regras de proteção para a branch main localizado em RuleSets</p>
 
