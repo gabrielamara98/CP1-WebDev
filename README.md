@@ -2,14 +2,13 @@
 <p><i>SocialConnect é uma plataforma de rede social onde usuários podem criar perfis, compartilhar atualizações, seguir outros usuários e interagir por meio de mensagens privadas. Recentemente, a equipe de desenvolvimento identificou alguns problemas no site institucional e recebeu solicitações de novas funcionalidades dos usuários</i>.</p>
 <br>
 
-## 🐛 Problemas identificados
+## 🐛 Problemas Identificados
 <ol>
   <li><b>Imagens quebradas e cores erradas</b>: algumas imagens não estão sendo carregadas como deveriam. A cor da empresa é o azul, que é representado no formato hexadecimal com #2980b9.</li>
   <li><b>Rodapé desatualizado e com erros</b>: O rodapé está com o ano incorreto além de ter algumas letras faltando.</li>
   <li><b>Sobre nós com texto que não condiz com a empresa</b>: a equipe anterior não entendeu o negócio e descreveu de forma equivocada a empresa. O texto já esteve correto e está em algum commit anterior na Branch main. Localize o texto para corrigi-lo.</li>
   <li><b>Está faltando o item “Projetos” no menu</b>: adicione o item “Projetos” no menu logo após o item “Início”.</li>
 </ol>
-<br>
 
 ## ⭐ Funcionalidades Solicitadas
 <ol>
@@ -24,6 +23,17 @@
   </li>
   <li><b>Adicionar redes sociais ao rodapé</b>: adicionar o perfil do linkedin e instragram ao rodapé</li>
 </ol>
+
+## 🥇 Desafios Adicionais
+<ul>
+  <li>A Branch main não deve conter nenhum commit direto, ou seja, ela deve estar protegida e todos os commits devem ser somente gerados pelo merge entre as branches através de pull requests.</li>
+  <li>Cada branch deve conter no mínimo 2 commits e esses commits devem ser padronizados seguindos as boas práticas</li>
+  <li>Cada membro do grupo deverá ser responsável por no mínimo uma branch.</li>
+  <li>O README deve conter no mínimo um resumo do projeto, tecnologias utilizadas e os integrantes do grupo.</li>
+</ul>
+<br>
+
+
 
 ## 💻 Sobre Nós
 <table border = 1px>
