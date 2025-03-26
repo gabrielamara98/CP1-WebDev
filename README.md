@@ -33,7 +33,17 @@
 </ul>
 <br>
 
+## 🧭 Tecnologias Utilizadas
+<ul>
+  <li>IDE: Visual Studio Code </li>
+  <li>Sitema de Versionamento: Git</li>
+  <li>Repositorio Remoto: GitHub</li>
+  <li>Linguagem de Marcação: HTML5</li>
+  <li>Linguagem de Estilo: CSS5</li>
+</ul>
 
+
+<br>
 
 ## 💻 Sobre Nós
 <table border = 1px>
@@ -47,7 +57,7 @@
       <br>
       <a href= "https://github.com/AdrianSouz"><b>Adrian</b></a>
     </td>
-    <td >
+    <td>
       <ul>
         <li>Adicionar redes sociais ao rodapé.</li>
         <li>Adicionar uma seção de contato.</li>
