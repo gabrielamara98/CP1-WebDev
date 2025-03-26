@@ -1,8 +1,8 @@
 <h1 align = center>Desafio SocialConnect</h1>
-<p>SocialConnect é uma plataforma de rede social onde usuários podem criar perfis, compartilhar atualizações, seguir outros usuários e interagir por meio de mensagens privadas. Recentemente, a equipe de desenvolvimento identificou alguns problemas no site institucional e recebeu solicitações de novas funcionalidades dos usuários.</p>
+<p><i>SocialConnect é uma plataforma de rede social onde usuários podem criar perfis, compartilhar atualizações, seguir outros usuários e interagir por meio de mensagens privadas. Recentemente, a equipe de desenvolvimento identificou alguns problemas no site institucional e recebeu solicitações de novas funcionalidades dos usuários</i>.</p>
 <br>
 
-## 🐛 Problemas identificados:
+## 🐛 Problemas identificados
 <ol>
   <li><b>Imagens quebradas e cores erradas</b>: algumas imagens não estão sendo carregadas como deveriam. A cor da empresa é o azul, que é representado no formato hexadecimal com #2980b9.</li>
   <li><b>Rodapé desatualizado e com erros</b>: O rodapé está com o ano incorreto além de ter algumas letras faltando.</li>
@@ -10,6 +10,20 @@
   <li><b>Está faltando o item “Projetos” no menu</b>: adicione o item “Projetos” no menu logo após o item “Início”.</li>
 </ol>
 <br>
+
+## ⭐ Funcionalidades Solicitadas
+<ol>
+  <li><b>Adicionar um texto sobre a equipe</b>: foi identificado que o texto sobre a equipe ainda não foi desenvolvido. Adicione uma descrição na seção equipe destacando porque a equipe é capacitada e destacando as qualidades dos colaboradores da empresa</li>
+  <li><b>Adicionar uma seção de contato</b>: abaixo da equipe deve conter uma seção de contato, contendo:
+    <ul>
+      <li>Título</li>
+      <li>Telefone</li>
+      <li>E-mail</li>
+      <li>Horário de atendimento</li>
+    </ul>
+  </li>
+  <li><b>Adicionar redes sociais ao rodapé</b>: adicionar o perfil do linkedin e instragram ao rodapé</li>
+</ol>
 
 ## 💻 Sobre Nós
 <table border = 1px>
@@ -82,6 +96,8 @@
   </tr>
 </table>
 
+## Notas
 Projeto: Case-Social-Connect
 <p>Repositório que servirá como 1º Checkpoint da disciplina de WebDev da FIAP</p>
+<p>Professor avaliador: <b>Caio Vinícius Gonçalves de Oliveira</b></p>
 
