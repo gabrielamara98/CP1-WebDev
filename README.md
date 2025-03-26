@@ -13,10 +13,10 @@
       <br>
       <a href= "https://github.com/AdrianSouz"><b>Adrian</b></a>
     </td>
-    <td>
+    <td >
       <ul>
-        <li>Adicionar um texto sobre a equipe</li>
-        <li>Adicionar uma seção de contato</li>
+        <li>Adicionar redes sociais ao rodapé.</li>
+        <li>Adicionar uma seção de contato.</li>
       </ul>
     </td>
   <tr>
@@ -27,8 +27,8 @@
     </td>
     <td>
       <ul>
-        <li>Imagens quebradas e cores erradas</li>
-        <li>Revisão de textos do projeto</li>
+        <li>Imagens quebradas e cores erradas.</li>
+        <li>Revisão de textos do projeto.</li>
       </ul>
     </td>
   </tr>
@@ -40,9 +40,9 @@
     </td>
     <td>
       <ul>
-        <li>Rodapé desatualizado e com erros</li>
-        <li>Adicionar um texto sobre a equipe</li>
-        <li>Readme</li>
+        <li>Rodapé desatualizado e com erros.</li>
+        <li>Adicionar um texto sobre a equipe.</li>
+        <li>Readme.</li>
       </ul>
     </td>
   </tr>
@@ -54,7 +54,7 @@
     </td>
     <td>
       <ul>
-        <li>Achar texto original e criar Branch correcao-sobre-nos</li>
+        <li>Achar texto original e criar Branch correcao-sobre-nos.</li>
       </ul>
     </td>
   </tr>
@@ -66,7 +66,7 @@
     </td>
     <td>
       <ul>
-        <li>Está faltando o item “Projetos” no menu</li>
+        <li>Está faltando o item “Projetos” no menu.</li>
       </ul>
     </td>
   </tr>
