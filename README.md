@@ -1,5 +1,5 @@
 # Case-Social-Connect
-Repositório que servirá como 1º Checkpoint da disciplina de WebDev da FIAP
+<p>Repositório que servirá como 1º Checkpoint da disciplina de WebDev da FIAP</p>
 
 ## 💻 Sobre Nós
 <table border = 1px>
@@ -8,7 +8,11 @@ Repositório que servirá como 1º Checkpoint da disciplina de WebDev da FIAP
     <th>Tarefas</th>
   </tr>
   <tr>
-    <td>Adrian</td>
+    <td align= center>
+      <img src = "https://avatars.githubusercontent.com/u/73716198?v=4" width = 80px alt = "Adrian Image" >
+      <br>
+      <a href= "https://github.com/AdrianSouz"><b>Adrian</b></a>
+    </td>
     <td>
       <ul>
         <li>Adicionar um texto sobre a equipe</li>
@@ -16,7 +20,11 @@ Repositório que servirá como 1º Checkpoint da disciplina de WebDev da FIAP
       </ul>
     </td>
   <tr>
-    <td>Camila</td>
+    <td align = center> 
+      <img src ="https://avatars.githubusercontent.com/u/202196268?v=4" width = 80px alt ="Camila Image">
+      <br>
+      <a href = "https://github.com/dev-camila"><b>Camila</b></a>
+    </td>
     <td>
       <ul>
         <li>Imagens quebradas e cores erradas</li>
@@ -25,7 +33,11 @@ Repositório que servirá como 1º Checkpoint da disciplina de WebDev da FIAP
     </td>
   </tr>
   <tr>
-    <td>Gabriel</td>
+    <td align = center>
+      <img src = "https://avatars.githubusercontent.com/u/80047823?v=4" width = 80px alt = "Gabriel Image">
+      <br>
+      <a href = "https://github.com/gabrielamara98"><b>Gabriel</b></a>
+    </td>
     <td>
       <ul>
         <li>Rodapé desatualizado e com erros</li>
@@ -35,7 +47,11 @@ Repositório que servirá como 1º Checkpoint da disciplina de WebDev da FIAP
     </td>
   </tr>
   <tr>
-    <td>Lise</td>
+    <td align = center>
+      <img src = "https://avatars.githubusercontent.com/u/35637366?v=4" width = 80px alt = "Lise Image">
+      <br>
+      <a href= "https://github.com/luararamos"><b>Lise</b></a>
+    </td>
     <td>
       <ul>
         <li>Achar texto original e criar Branch correcao-sobre-nos</li>
@@ -43,7 +59,11 @@ Repositório que servirá como 1º Checkpoint da disciplina de WebDev da FIAP
     </td>
   </tr>
   <tr>
-    <td>Pedro Lucas</td>
+    <td align = center>
+      <img src = "https://avatars.githubusercontent.com/u/101485201?v=4" width = 80px alt = "Pedro Lucas Image">
+      <br>
+      <a href = "https://github.com/pedroviscz"><b>Pedro Lucas</b></a>
+    </td>
     <td>
       <ul>
         <li>Está faltando o item “Projetos” no menu</li>
