@@ -71,7 +71,7 @@
     </td>
     <td>
       <ul>
-        <li>Imagens quebradas e cores erradas.</li>
+        <li>Achar texto original e criar Branch correcao-sobre-nos.</li>
         <li>Revisão de textos do projeto.</li>
       </ul>
     </td>
@@ -98,7 +98,7 @@
     </td>
     <td>
       <ul>
-        <li>Achar texto original e criar Branch correcao-sobre-nos.</li>
+        <li>Imagens quebradas e cores erradas.</li>
       </ul>
     </td>
   </tr>
