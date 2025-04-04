@@ -55,7 +55,7 @@
     <td align= center>
       <img src = "https://avatars.githubusercontent.com/u/73716198?v=4" width = 80px alt = "Adrian Image" >
       <br>
-      <a href= "https://github.com/AdrianSouz"><b>Adrian</b></a>
+      <a href= "https://github.com/AdrianSouz"><b>Adrian Souza</b></a>
     </td>
     <td>
       <ul>
@@ -67,7 +67,7 @@
     <td align = center> 
       <img src ="https://avatars.githubusercontent.com/u/202196268?v=4" width = 80px alt ="Camila Image">
       <br>
-      <a href = "https://github.com/dev-camila"><b>Camila</b></a>
+      <a href = "https://github.com/dev-camila"><b>Camila Martins</b></a>
     </td>
     <td>
       <ul>
@@ -80,7 +80,7 @@
     <td align = center>
       <img src = "https://avatars.githubusercontent.com/u/80047823?v=4" width = 80px alt = "Gabriel Image">
       <br>
-      <a href = "https://github.com/gabrielamara98"><b>Gabriel</b></a>
+      <a href = "https://github.com/gabrielamara98"><b>Gabriel Amara</b></a>
     </td>
     <td>
       <ul>
@@ -94,7 +94,7 @@
     <td align = center>
       <img src = "https://avatars.githubusercontent.com/u/35637366?v=4" width = 80px alt = "Lise Image">
       <br>
-      <a href= "https://github.com/luararamos"><b>Lise</b></a>
+      <a href= "https://github.com/luararamos"><b>Luara Ramos</b></a>
     </td>
     <td>
       <ul>
@@ -106,7 +106,7 @@
     <td align = center>
       <img src = "https://avatars.githubusercontent.com/u/101485201?v=4" width = 80px alt = "Pedro Lucas Image">
       <br>
-      <a href = "https://github.com/pedroviscz"><b>Pedro Lucas</b></a>
+      <a href = "https://github.com/pedroviscz"><b>Pedro Lucas Almeida</b></a>
     </td>
     <td>
       <ul>
